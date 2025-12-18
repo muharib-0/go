@@ -518,7 +518,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Muharib** - [@muharib-0](https://github.com/muharib-0)
 
-Project Link: [https://github.com/muharib-0/ainyx-user-api](https://github.com/muharib-0/ainyx-user-api)
+Project Link: [https://github.com/muharib-0/ainyx-user-api](https://github.com/muharib-0/go)
 
 ---
 
