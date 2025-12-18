@@ -21,3 +21,7 @@ RETURNING id, name, dob;
 
 -- name: DeleteUser :exec
 DELETE FROM users WHERE id = $1;
+
+
+-- name: CountUsers :one 
+SELECT COUNT(*) FROM users;
